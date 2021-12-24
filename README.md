@@ -1,6 +1,6 @@
 # qrcode
 
-A new Flutter project.
+Qr Code Generator & Reader using Flutter Barcode Scanner and Barcode Widget.
 
 ## Getting Started
 
