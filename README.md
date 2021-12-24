@@ -12,14 +12,6 @@ Qr Code Generator & Reader using Flutter Barcode Scanner and Barcode Widget.
 
 
 
-![WhatsApp Image 2021-12-24 at 11 22 48 AM](https://user-images.githubusercontent.com/48661562/147339799-192f8318-9ae0-47aa-87b0-f66539c430f2.jpeg)
-
-
-
-
-
-
-
 ![WhatsApp Image 2021-12-24 at 11 22 48 AM](https://user-images.githubusercontent.com/48661562/147339843-b278a62b-9a24-46c0-9168-675938382563.jpeg)
 
 
